@@ -1,0 +1,20 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid rgb(250, 0, 0);
+}
+
+body{
+  margin: auto;
+  background-color: black;
+  padding: auto;
+  align-items: center;
+  align-content: center;
+}
+
